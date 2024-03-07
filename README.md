@@ -27,9 +27,9 @@ Best Practices: We adhere to best practices in data analysis, ensuring reproduci
 
 ## Explore Our Projects:
 
-Project 1: Titanic Data Analysis: Explore the Titanic dataset to understand the factors that influenced passenger survival.
-Project 2: Heart Diseases Analysis: Analyze the UCI Heart Disease dataset to identify risk factors and predict heart disease outcomes.
-Project 3: Disney Plus Content Analysis: Dive into the Disney Plus dataset to uncover trends in streaming content and user preferences.
+- Project 1: Titanic Data Analysis: Explore the Titanic dataset to understand the factors that influenced passenger survival.
+- Project 2: Heart Diseases Analysis: Analyze the UCI Heart Disease dataset to identify risk factors and predict heart disease outcomes.
+- Project 3: Disney Plus Content Analysis: Dive into the Disney Plus dataset to uncover trends in streaming content and user preferences.
 
 ## Get Involved:
 
